@@ -1,0 +1,30 @@
+p {
+  color: darkblue;
+  font-size: 26px;
+  font-family: Georgia, 'Times New Roman', Times, serif;   
+  text-align: center;
+  text-decoration: underline;
+}
+
+div {
+     width: 400px;
+     height: 350px;
+     margin: 20px;
+}
+
+h1, h2, h3 {
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    color: black;
+}
+
+#main {
+  background-color: darkgoldenrod;
+  padding: 25px;
+  border: 5px;
+}
+
+#second {
+  background-color: violet;
+  padding: 15px;
+  border: 10px;
+}
